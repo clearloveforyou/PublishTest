@@ -13,7 +13,7 @@ import java.util.List;
  * @Author: HSL
  * @Time: 2018/12/12 17:27
  * @E-mail: xxx@163.com
- * @Description: 这个人太懒，没留下什么踪迹~
+ * @Description: JSON工具类
  */
 public class JsonUtils {
 
